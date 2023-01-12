@@ -1,0 +1,9 @@
+sweettalk
+yeaungkhant077@gmail.com
+
+host-database
+db-name: id19035133_sweettalk
+db-username: id19035133_chatapp	
+pw: 86i2\lq0~CT5*Fzp
+
+https://sweettalk-chatting.000webhostapp.com/index.php
